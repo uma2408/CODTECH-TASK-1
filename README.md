@@ -8,7 +8,7 @@
 
 **Duration:** December 17 2024 to January 17 2025
 
-**Mentor:** Sravani
+**Mentor:** N.SANTHOSH
 
 
 #**Overview of the Online Banking System Project**
